@@ -1,4 +1,5 @@
 import tensorflow as tf
+import tensorflow.contrib as contrib
 
 CONV1_SIZE = 5
 CONV1_DEEP = 32
@@ -19,7 +20,7 @@ FC2_NODE = CLASS_NUMS = 10
 def inference(input):
 	# 卷积层的输入是[batch, height, width, channel]
 	with tf.variable_scope("conv1"):
-		conv1_weight = tf.get_variable(name="conv_weight",
+		conv1_weight = tf.get_variable(name="conv1_weight",
 									   shape=[CONV1_SIZE, CONV1_SIZE, INPUT_CHANNEL, CONV1_DEEP],
 									   dtype=tf.float32,
 									   initializer=tf.truncated_normal_initializer)
@@ -59,10 +60,10 @@ def inference(input):
 	with tf.variable_scope("fc1"):
 		#此时网络的输出为[batch, 28,28,conv2_filter_count]大小的数据，在接入全连接层时必须转变形状。
 		conv2_pool_shape = conv2_pool.get_shape().as_list()
-		batch = conv2_pool_shape[0]
+		batch = input.get_shape().as_list()[0]
 		column = conv2_pool_shape[1]*conv2_pool_shape[2]*conv2_pool_shape[3]
 
-		fc1_shaped_input = tf.reshape(conv2_pool, [batch, column])
+		fc1_shaped_input = tf.reshape(tensor=conv2_pool, shape=[batch, column])
 		fc1_weight = tf.get_variable(name="fc1_weight",
 									 shape=[column,FC1_NODES],
 									 dtype=tf.float32,
@@ -76,6 +77,7 @@ def inference(input):
 		fc1_relu = tf.nn.relu(tf.nn.bias_add(fc1, fc1_biases))
 
 		# fc1全连接层节点多，参数数量大，可能出现过拟合，
+		tf.add_to_collection("losses", contrib.layers.l2_regularizer(fc1_weight))
 
 	with tf.variable_scope("fc2"):
 		fc2_weight = tf.get_variable(name="fc2_weight",
