@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a89733f-40b3-4e91-b139-d32db760f232" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit/caffe_classes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit/test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit/testModel.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/AAA.py" afterPath="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit/alexnet.py" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnet.py" afterPath="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnet.py" />
+      <change beforePath="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/document" afterPath="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/document" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -90,18 +97,18 @@
       <file leaf-file-name="document" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TensorFlow/cnn/AlexNet/document">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            <state relative-caret-position="360">
+              <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="alexnet.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="alexnet.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="766">
-              <caret line="27" column="52" lean-forward="false" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+            <state relative-caret-position="723">
+              <caret line="78" column="17" lean-forward="false" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -109,8 +116,62 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AAA.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TensorFlow/cnn/AlexNet/AAA.py">
+      <file leaf-file-name="testModel.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit/testModel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="35" selection-end-column="44" />
+              <folding>
+                <element signature="e#318#327#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="caffe_classes.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit/caffe_classes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="request.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Anaconda3/Lib/urllib/request.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="144" column="28" lean-forward="false" selection-start-line="144" selection-start-column="28" selection-end-line="144" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gen_nn_ops.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/tensorflow/python/ops/gen_nn_ops.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="874" column="4" lean-forward="false" selection-start-line="874" selection-start-column="4" selection-end-line="874" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alexnet.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit/alexnet.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
               <caret line="49" column="47" lean-forward="false" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
@@ -122,7 +183,7 @@
       <file leaf-file-name="array_ops.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/tensorflow/python/ops/array_ops.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="577">
+            <state relative-caret-position="48168">
               <caret line="1362" column="16" lean-forward="false" selection-start-line="1362" selection-start-column="16" selection-end-line="1362" selection-end-column="16" />
               <folding />
             </state>
@@ -164,6 +225,7 @@
       <find>\</find>
       <find>.format</find>
       <find>conv1_weight</find>
+      <find>cv2</find>
     </findStrings>
     <replaceStrings>
       <replace>//</replace>
@@ -178,10 +240,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/classification/__init__.py" />
-        <option value="$PROJECT_DIR$/tf/points/3.7_scope_test.py" />
-        <option value="$PROJECT_DIR$/tf/classification/simple_classification.py" />
-        <option value="$PROJECT_DIR$/tf/tflearn/EffectiveTensorflow/start.py" />
         <option value="$PROJECT_DIR$/tf/tflearn/EffectiveTensorflow/test.py" />
         <option value="$PROJECT_DIR$/tf/classification/simpleclassifiction.py" />
         <option value="$PROJECT_DIR$/tf/classification/test.py" />
@@ -225,10 +283,14 @@
         <option value="$PROJECT_DIR$/TensorFlow/tflearn/EffectiveTensorflow/test.py" />
         <option value="$PROJECT_DIR$/TensorFlow/cnn/LeNet5/lenet_new/inference.py" />
         <option value="$PROJECT_DIR$/TensorFlow/cnn/LeNet5/lenet_new/train.py" />
-        <option value="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/document" />
         <option value="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/AAA" />
         <option value="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/AAA.py" />
+        <option value="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/document" />
         <option value="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnet.py" />
+        <option value="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/test.py" />
+        <option value="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/classes.py" />
+        <option value="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit/testModel.py" />
+        <option value="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit/test.py" />
       </list>
     </option>
   </component>
@@ -238,7 +300,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
     <option name="width" value="980" />
     <option name="height" value="1090" />
@@ -289,6 +351,58 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NeuralNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NeuralNetwork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NeuralNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NeuralNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="TensorFlow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NeuralNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NeuralNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="TensorFlow" type="462c0819:PsiDirectoryNode" />
+              <item name="cnn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NeuralNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NeuralNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="TensorFlow" type="462c0819:PsiDirectoryNode" />
+              <item name="cnn" type="462c0819:PsiDirectoryNode" />
+              <item name="AlexNet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NeuralNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NeuralNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="TensorFlow" type="462c0819:PsiDirectoryNode" />
+              <item name="cnn" type="462c0819:PsiDirectoryNode" />
+              <item name="AlexNet" type="462c0819:PsiDirectoryNode" />
+              <item name="alexnetgit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NeuralNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="NeuralNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="NeuralNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -317,41 +431,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="NeuralNetwork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NeuralNetwork" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NeuralNetwork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NeuralNetwork" type="462c0819:PsiDirectoryNode" />
-              <item name="TensorFlow" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NeuralNetwork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NeuralNetwork" type="462c0819:PsiDirectoryNode" />
-              <item name="TensorFlow" type="462c0819:PsiDirectoryNode" />
-              <item name="cnn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NeuralNetwork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NeuralNetwork" type="462c0819:PsiDirectoryNode" />
-              <item name="TensorFlow" type="462c0819:PsiDirectoryNode" />
-              <item name="cnn" type="462c0819:PsiDirectoryNode" />
-              <item name="AlexNet" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
@@ -364,16 +449,16 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\cs231n\cs231n-master\Image Classification\nn" />
-      <recent name="D:\cs231n\nn\.idea" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyCharm\NeuralNetwork\TensorFlow\cnn\AlexNet\alexnetgit" />
       <recent name="D:\PyCharm\NeuralNetwork\TensorFlow\rnn\lstm" />
       <recent name="D:\PyCharm\DeepLearning\basicnn" />
       <recent name="D:\PyCharm\DeepLearning\basic_ann" />
       <recent name="D:\PyCharm\DeepLearning\tf" />
-      <recent name="D:\PyCharm\DeepLearning\tf\cnn" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\cs231n\cs231n-master\Image Classification\nn" />
+      <recent name="D:\cs231n\nn\.idea" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -388,7 +473,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.train">
+  <component name="RunManager" selected="Python.test (2)">
     <configuration name="moni" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -402,24 +487,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="NeuralNetwork" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TensorFlow/rnn/lstm/moni.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="plot" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plt" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NeuralNetwork" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plt/plot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -443,6 +510,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NeuralNetwork" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -456,24 +541,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="DeepLearning" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf/tflearn/EffectiveTensorflow/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="train (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TensorFlow/cnn/LeNet5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NeuralNetwork" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TensorFlow/cnn/LeNet5/train.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -670,12 +737,12 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="py.test in validate.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test.test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TensorFlow/cnn/LeNet5/lenet_new" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -683,7 +750,23 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/TensorFlow/cnn/LeNet5/lenet_new/validate.py&quot;" />
+      <option name="_new_target" value="&quot;test.test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test in test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NeuralNetwork" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit/test.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="9">
@@ -692,18 +775,18 @@
       <item index="2" class="java.lang.String" itemvalue="Python.test" />
       <item index="3" class="java.lang.String" itemvalue="Jupyter Notebook.nn" />
       <item index="4" class="java.lang.String" itemvalue="Python.train" />
-      <item index="5" class="java.lang.String" itemvalue="Python.train (1)" />
-      <item index="6" class="java.lang.String" itemvalue="Python.plot" />
-      <item index="7" class="java.lang.String" itemvalue="Python tests.py.test in validate.py" />
-      <item index="8" class="java.lang.String" itemvalue="Python.test (1)" />
+      <item index="5" class="java.lang.String" itemvalue="Python.test (1)" />
+      <item index="6" class="java.lang.String" itemvalue="Python tests.py.test in test.py" />
+      <item index="7" class="java.lang.String" itemvalue="Python tests.py.test for test.test" />
+      <item index="8" class="java.lang.String" itemvalue="Python.test (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.train" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in validate.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python.plot" />
-        <item index="4" class="java.lang.String" itemvalue="Python.train (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python.train" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -732,6 +815,12 @@
     <servers />
   </component>
   <component name="TestHistory">
+    <history-entry file="py_test_for_test_test - 2018.07.26 at 17h 12m 12s.xml">
+      <configuration name="py.test for test.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_py - 2018.07.26 at 15h 06m 04s.xml">
+      <configuration name="py.test in test.py" configurationId="tests" />
+    </history-entry>
     <history-entry file="py_test_in_validate_py - 2018.07.23 at 16h 19m 03s.xml">
       <configuration name="py.test in validate.py" configurationId="tests" />
     </history-entry>
@@ -749,16 +838,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1102" extended-state="7" />
+    <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19353129" sideWeight="0.49429038" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44101432" sideWeight="0.48704103" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3281768" sideWeight="0.5064795" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18522602" sideWeight="0.4913607" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32486188" sideWeight="0.48326135" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44088396" sideWeight="0.48704103" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="1.0" sideWeight="0.5185578" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32855567" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18453039" sideWeight="0.4913607" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32486188" sideWeight="0.4814422" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32855567" sideWeight="0.49352053" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281768" sideWeight="0.49352053" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25431967" sideWeight="0.50570965" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46850827" sideWeight="0.48650107" order="3" side_tool="false" content_ui="tabs" x="46" y="337" width="1852" height="412" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -770,7 +861,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.49784017" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32855567" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -921,41 +1011,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/tensorflow/python/ops/math_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="1366" column="4" lean-forward="false" selection-start-line="1366" selection-start-column="4" selection-end-line="1366" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1492395166/numpy/core/multiarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="959" column="7" lean-forward="true" selection-start-line="959" selection-start-column="7" selection-end-line="959" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow/rnn/gru/sin_prediction/generate_sample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow/rnn/gru/sin_prediction/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow/rnn/gru/sin_prediction/sin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TensorFlow/rnn/lstm/LSTM_classification_simu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -1106,13 +1161,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/tensorflow/python/ops/gen_nn_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="874" column="4" lean-forward="false" selection-start-line="874" selection-start-column="4" selection-end-line="874" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TensorFlow/points/03_linear_reg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="366">
@@ -1252,21 +1300,40 @@
     </entry>
     <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/tensorflow/python/ops/array_ops.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
+        <state relative-caret-position="48168">
           <caret line="1362" column="16" lean-forward="false" selection-start-line="1362" selection-start-column="16" selection-end-line="1362" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow/cnn/AlexNet/AAA">
+    <entry file="file://$PROJECT_DIR$/TensorFlow/cnn/AlexNet/AAA" />
+    <entry file="file://$PROJECT_DIR$/TensorFlow/cnn/AlexNet/document">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3852">
-          <caret line="107" column="87" lean-forward="false" selection-start-line="107" selection-start-column="87" selection-end-line="107" selection-end-column="87" />
+        <state relative-caret-position="360">
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow/cnn/AlexNet/AAA.py">
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/tensorflow/python/ops/gen_nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="874" column="4" lean-forward="false" selection-start-line="874" selection-start-column="4" selection-end-line="874" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="723">
+          <caret line="78" column="17" lean-forward="false" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit/alexnet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="49" column="47" lean-forward="false" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
@@ -1274,21 +1341,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow/cnn/AlexNet/document">
+    <entry file="file://$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit/caffe_classes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        <state relative-caret-position="252">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnet.py">
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/argparse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="766">
-          <caret line="27" column="52" lean-forward="false" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        <state relative-caret-position="829">
+          <caret line="1599" column="8" lean-forward="false" selection-start-line="1599" selection-start-column="8" selection-end-line="1599" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit/testModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="35" selection-end-column="44" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#318#327#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow/cnn/AlexNet/alexnetgit/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="144" column="28" lean-forward="false" selection-start-line="144" selection-start-column="28" selection-end-line="144" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
